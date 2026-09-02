@@ -1,0 +1,32 @@
+[
+  {
+    "id": "C001",
+    "ragioneSociale": "Rossi Srl",
+    "fatturatoAnnuo": 8500,
+    "puntiAccumulati": 320
+  },
+  {
+    "id": "C002",
+    "ragioneSociale": "Bianchi & Co",
+    "fatturatoAnnuo": 45000,
+    "puntiAccumulati": 1230
+  },
+  {
+    "id": "C003",
+    "ragioneSociale": "Verdi Industrie Spa",
+    "fatturatoAnnuo": 78000,
+    "puntiAccumulati": 4100
+  },
+  {
+    "id": "C004",
+    "ragioneSociale": "Gruppo Ferrari Logistics",
+    "fatturatoAnnuo": 150000,
+    "puntiAccumulati": 9800
+  },
+  {
+    "id": "C005",
+    "ragioneSociale": "Colombo Materiali",
+    "fatturatoAnnuo": 22000,
+    "puntiAccumulati": 610
+  }
+]
